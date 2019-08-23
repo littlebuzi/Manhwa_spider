@@ -23,7 +23,7 @@
 
 ## 基本逻辑
 
-![1565360279264](file://C:/Users/buzi/Documents/Gridea/post-images/1565360279264.png)
+![1565360279264](https://littlebuzi.github.io/post-images/1565360279264.png)
 
 ## 代码实现
 
@@ -220,11 +220,11 @@ for item in soup.select('.d_menu>ul>li'):
 <hr>
 <br>
 
-![1565361188393](file://C:/Users/buzi/Documents/Gridea/post-images/1565361188393.png)
+![1565361188393](https://littlebuzi.github.io/post-images/1565361188393.png)
 
-![1565361235369](file://C:/Users/buzi/Documents/Gridea/post-images/1565361235369.png)
+![1565361235369](https://littlebuzi.github.io/post-images/1565361235369.png)
 
-![1565361244280](file://C:/Users/buzi/Documents/Gridea/post-images/1565361244280.png)
+![1565361244280](https://littlebuzi.github.io/post-images/1565361244280.png)
 
 基本可行，最高纪录 ，爬取四本后停止。
 
@@ -284,7 +284,7 @@ cmd输出界面优化✅
 
 <br>
 
-![1565871675669](file://C:/Users/buzi/Documents/Gridea/post-images/1565871675669.png)
+![1565871675669](https://littlebuzi.github.io/post-images/1565871675669.png)
 
 <br>
 
@@ -482,11 +482,11 @@ if __name__=="__main__":
 
 <br>
 
-![1565763309680](file://C:/Users/buzi/Documents/Gridea/post-images/1565763309680.png)
+![1565763309680](https://littlebuzi.github.io/post-images/1565763309680.png)
 
-![1565763331643](file://C:/Users/buzi/Documents/Gridea/post-images/1565763331643.png)
+![1565763331643](https://littlebuzi.github.io/post-images/1565763331643.png)
 
-![1565763348226](file://C:/Users/buzi/Documents/Gridea/post-images/1565763348226.png)
+![1565763348226](https://littlebuzi.github.io/post-images/1565763348226.png)
 
 <br>
 
